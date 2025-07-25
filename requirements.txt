@@ -1,0 +1,13 @@
+psutil
+python-dotenv
+rich
+uvicorn
+textual
+chromadb
+sentence-transformers
+loguru
+hypothesis
+pip-audit
+watchdog
+qiskit
+qiskit-aer
