@@ -1,0 +1,2 @@
+-- In your ~/.config/nvim/init.lua or init.vim
+:luafile ~/Desktop/Osmanli/nvim_intergration/neovim_ollama_bridge.lua
